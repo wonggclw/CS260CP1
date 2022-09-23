@@ -3,9 +3,19 @@ h1{
 }
 
 .navbar{
-    background-color: #F3E2B3;
+    background-color: #73e58c;
 }
 
-.nav-item{
-    background-color: black;
+hr {
+    background-color: #77dd77 ;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%);
+}
+
+.carousel-indicators{
+    filter: invert(100%)
 }

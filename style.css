@@ -15,13 +15,24 @@ p {
     background-color: #73e58c;
 }
 
-.nav-item{
-    font-color: black;
-}
-
 hr {
     background-color: #77dd77 ;
 }
+
+.center{
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.extra-space{
+    margin-top: 20vh;
+}
+
+.space{
+    margin-top: 6vh;
+}
+
 
 .main-head{
     background-color: gray;

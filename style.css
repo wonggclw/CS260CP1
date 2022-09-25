@@ -22,6 +22,11 @@ p {
     background-color: #73e58c;
 }
 
+.navbar-brand{
+    color: white;
+    font-family: 'Rubik Dirt', cursive;
+}
+
 hr {
     background-color: #77dd77 ;
 }
@@ -52,7 +57,7 @@ hr {
     padding-top: 8vw;
     padding-left: 5vw;
     color: white;
-    height: 100vh;
+    height: 102vh;
     min-width: 100%;
     margin: 0;
 }

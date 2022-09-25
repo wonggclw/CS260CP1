@@ -14,14 +14,6 @@ hr {
 }
 
 .main-head{
-   /* background-image: url('images/BannerBackground.png');
-    height: 100vh;
-    width: 100%;
-    padding: 0;
-    margin:0;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;*/
     background-color: gray;
     background-position: center;
     background-size: cover;
@@ -36,6 +28,24 @@ hr {
 .main-header{
     font-family: 'Rubik Dirt', cursive;
     font-size: 15vw;
+}
+
+.page-head{
+    background-color: gray;
+    background-position: center;
+    background-size: cover;
+    background-image: url('images/BannerBackground.png');
+    padding-top: 8vw;
+    color: white;
+    height: 50vh;
+    min-width: 100%;
+    margin: 0;
+}
+
+.page-header{
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 10vw;
+    color: white;
 }
 
 .slogan{

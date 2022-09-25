@@ -15,6 +15,10 @@ p {
     background-color: #73e58c;
 }
 
+.nav-item{
+    font-color: black;
+}
+
 hr {
     background-color: #77dd77 ;
 }
@@ -25,6 +29,7 @@ hr {
     background-size: cover;
     background-image: url('images/BannerBackground.png');
     padding-top: 8vw;
+    padding-left: 5vw;
     color: white;
     height: 100vh;
     min-width: 100%;

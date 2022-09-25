@@ -33,6 +33,9 @@ hr {
     margin-top: 6vh;
 }
 
+.body-img{
+    max-width: 75vw;
+}
 
 .main-head{
     background-color: gray;

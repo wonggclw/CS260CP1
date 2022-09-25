@@ -13,6 +13,7 @@ h1{
 }
 h2{
     font-size: 20px !important;
+    text-align: center;
 }
 p {
     text-align: center;
@@ -129,4 +130,11 @@ hr {
 
 .carousel-indicators{
     filter: invert(100%)
+}
+.logo {
+    display: inline-block;
+    vertical-align: ;
+    width: 200px;
+    height: 70px;
+    margin-right: 20px;    /* if you want it vertically middle of the navbar. */
 }

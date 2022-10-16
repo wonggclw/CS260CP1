@@ -137,3 +137,38 @@ hr {
     height: 70px;
     margin-right: 20px;    /* if you want it vertically middle of the navbar. */
 }
+
+
+
+
+body{
+  background: #000000;
+  color: #ffffff;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#color-indicator{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  vertical-align: middle;
+}
+#color-picker{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 40px;
+}
+#hex-code{
+  color: #000000;
+}
+.color-picker{
+  position: relative;
+}
+​
+p{
+  color: white;
+}

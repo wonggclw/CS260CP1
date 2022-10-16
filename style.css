@@ -140,7 +140,6 @@ hr {
 }
 .logo {
     display: inline-block;
-    vertical-align: ;
     width: 200px;
     height: 70px;
     margin-right: 20px;    /* if you want it vertically middle of the navbar. */
